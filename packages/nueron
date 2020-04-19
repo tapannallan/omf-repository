@@ -1,0 +1,4 @@
+type = theme
+repository = https://github.com/tapannallan/nueron-theme
+maintainer = Tapan Nallan
+description = A theme with git integration and command info based on the Rider theme(https://github.com/rideron89/rider-theme)
